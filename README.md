@@ -34,10 +34,10 @@
 
 - Video Tour *~recommended*
     - Watch this [video](https://drive.google.com/file/d/1FrHBAXtPiKPMgd5lb5iXdvSrckGWPz8f/view?usp=sharing) to learn about the dashboard.
-    - [https://drive.google.com/file/d/1FrHBAXtPiKPMgd5lb5iXdvSrckGWPz8f/view?usp=sharing](https://drive.google.com/file/d/1FrHBAXtPiKPMgd5lb5iXdvSrckGWPz8f/view?usp=sharing)
 - Interactive Dashboard
     - Open Venmito.twbx which will take you to Tableau Desktop.
-        - [Download](https://www.tableau.com/en-gb/trial/tableau-software?d=7013y0000020SgKAAU&nc=7013y0000020Z2CAAU&utm_content=7013y0000020SgKAAU&utm_source=google&utm_medium=paid_search&utm_campaign=21475219080&utm_adgroup=164569568629&utm_term=desktop+tableau&utm_matchtype=p&gad_source=1&gclid=CjwKCAiAzvC9BhADEiwAEhtlNzf30tmz-KM1nRCXF1B7e4tF3tHWATd5RmU8LG9hcpQKqz3wayCxJRoCyMgQAvD_BwE&gclsrc=aw.ds)
+        - If you don't have access to this tool you can download [here](https://www.tableau.com/en-gb/trial/tableau-software?d=7013y0000020SgKAAU&nc=7013y0000020Z2CAAU&utm_content=7013y0000020SgKAAU&utm_source=google&utm_medium=paid_search&utm_campaign=21475219080&utm_adgroup=164569568629&utm_term=desktop+tableau&utm_matchtype=p&gad_source=1&gclid=CjwKCAiAzvC9BhADEiwAEhtlNzf30tmz-KM1nRCXF1B7e4tF3tHWATd5RmU8LG9hcpQKqz3wayCxJRoCyMgQAvD_BwE&gclsrc=aw.ds)
+        - There are more ways to share Tableau dashboards so if these methods are not preferred you can contact [me](ignaciosadurni@gmail.com) to access the resource.
 - Static Dashboard
     - You can always view and open the venmito_dashboard.pdf file.
     - This version does not support filters and sorting functions and will show static/non-interactive data.
