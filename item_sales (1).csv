@@ -1,0 +1,297 @@
+,transaction_id,person_id,item,quantity,price_per_unit,total_price,receipt_total,store,city,country
+0,0,854,Krafty Cheddar,1,5.0,5.0,17.0,Trader Tales,San Diego,USA
+1,0,854,Popsi,1,4.0,4.0,17.0,Trader Tales,San Diego,USA
+2,0,854,Oreoz,2,4.0,8.0,17.0,Trader Tales,San Diego,USA
+3,1,341,Colgatex,1,2.0,2.0,2.0,PetPals Mart,San Diego,USA
+4,2,15,Colgatex,1,3.0,3.0,16.0,Trader Tales,New York,USA
+5,2,15,Dovee,1,2.0,2.0,16.0,Trader Tales,New York,USA
+6,2,15,Flixnet,1,11.0,11.0,16.0,Trader Tales,New York,USA
+7,3,371,Krafty Cheddar,2,4.0,8.0,13.0,Urban Outfitters Loft,Los Angeles,USA
+8,3,371,RedCow,1,3.0,3.0,13.0,Urban Outfitters Loft,Los Angeles,USA
+9,3,371,Dovee,2,1.0,2.0,13.0,Urban Outfitters Loft,Los Angeles,USA
+10,4,480,Popsi,1,3.0,3.0,13.0,PetPals Mart,Los Angeles,USA
+11,4,480,Flixnet,1,10.0,10.0,13.0,PetPals Mart,Los Angeles,USA
+12,5,850,Popsi,1,3.0,3.0,7.0,Urban Outfitters Loft,Chicago,USA
+13,5,850,KittyKat,2,2.0,4.0,7.0,Urban Outfitters Loft,Chicago,USA
+14,6,564,Flixnet,1,11.0,11.0,17.0,BestChoice Buy,Chicago,USA
+15,6,564,Colgatex,2,3.0,6.0,17.0,BestChoice Buy,Chicago,USA
+16,7,297,KittyKat,2,4.0,8.0,22.0,SparkMart,San Diego,USA
+17,7,297,RedCow,1,5.0,5.0,22.0,SparkMart,San Diego,USA
+18,7,297,Dovee,3,3.0,9.0,22.0,SparkMart,San Diego,USA
+19,8,305,Colgatex,1,4.0,4.0,13.0,SparkMart,San Francisco,USA
+20,8,305,RedCow,1,5.0,5.0,13.0,SparkMart,San Francisco,USA
+21,8,305,KittyKat,1,4.0,4.0,13.0,SparkMart,San Francisco,USA
+22,9,169,Krafty Cheddar,1,5.0,5.0,5.0,Trader Tales,San Francisco,USA
+23,10,752,Flixnet,1,11.0,11.0,19.0,Trader Tales,Chicago,USA
+24,10,752,RedCow,1,4.0,4.0,19.0,Trader Tales,Chicago,USA
+25,10,752,Popsi,1,4.0,4.0,19.0,Trader Tales,Chicago,USA
+26,11,89,Colgatex,1,3.0,3.0,18.0,Trader Tales,New York,USA
+27,11,89,Popsi,1,4.0,4.0,18.0,Trader Tales,New York,USA
+28,11,89,Flixnet,1,11.0,11.0,18.0,Trader Tales,New York,USA
+29,12,202,Colgatex,1,2.0,2.0,32.0,PetPals Mart,San Francisco,USA
+30,12,202,Flixnet,3,10.0,30.0,32.0,PetPals Mart,San Francisco,USA
+31,13,526,RedCow,1,4.0,4.0,11.0,BestChoice Buy,New York,USA
+32,13,526,Colgatex,1,3.0,3.0,11.0,BestChoice Buy,New York,USA
+33,13,526,Dovee,2,2.0,4.0,11.0,BestChoice Buy,New York,USA
+34,14,370,Krafty Cheddar,1,5.0,5.0,5.0,BestChoice Buy,San Diego,USA
+35,15,132,Colgatex,1,3.0,3.0,17.0,BestChoice Buy,New York,USA
+36,15,132,Krafty Cheddar,2,5.0,10.0,17.0,BestChoice Buy,New York,USA
+37,15,132,Popsi,1,4.0,4.0,17.0,BestChoice Buy,New York,USA
+38,16,109,Popsi,3,3.0,9.0,22.0,Urban Outfitters Loft,Chicago,USA
+39,16,109,Dovee,3,1.0,3.0,22.0,Urban Outfitters Loft,Chicago,USA
+40,16,109,Flixnet,1,10.0,10.0,22.0,Urban Outfitters Loft,Chicago,USA
+41,17,54,Dovee,1,1.0,1.0,1.0,PetPals Mart,New York,USA
+42,18,986,Dovee,2,1.0,2.0,2.0,Urban Outfitters Loft,Los Angeles,USA
+43,19,894,Popsi,1,4.0,4.0,10.0,Trader Tales,Chicago,USA
+44,19,894,Colgatex,2,3.0,6.0,10.0,Trader Tales,Chicago,USA
+45,20,742,Flixnet,1,12.0,12.0,22.0,SparkMart,New York,USA
+46,20,742,Popsi,2,5.0,10.0,22.0,SparkMart,New York,USA
+47,21,328,Colgatex,1,2.0,2.0,2.0,Urban Outfitters Loft,San Diego,USA
+48,22,368,RedCow,2,4.0,8.0,13.0,Trader Tales,New York,USA
+49,22,368,Krafty Cheddar,1,5.0,5.0,13.0,Trader Tales,New York,USA
+50,23,735,KittyKat,3,2.0,6.0,13.0,PetPals Mart,Los Angeles,USA
+51,23,735,Popsi,2,3.0,6.0,13.0,PetPals Mart,Los Angeles,USA
+52,23,735,Dovee,1,1.0,1.0,13.0,PetPals Mart,Los Angeles,USA
+53,24,944,Flixnet,2,11.0,22.0,34.0,Trader Tales,Chicago,USA
+54,24,944,RedCow,3,4.0,12.0,34.0,Trader Tales,Chicago,USA
+55,25,693,RedCow,2,5.0,10.0,10.0,Targeted Treasures,New York,USA
+56,26,533,Colgatex,2,3.0,6.0,10.0,BestChoice Buy,New York,USA
+57,26,533,RedCow,1,4.0,4.0,10.0,BestChoice Buy,New York,USA
+58,27,602,Popsi,2,3.0,6.0,14.0,Urban Outfitters Loft,Los Angeles,USA
+59,27,602,Dovee,2,1.0,2.0,14.0,Urban Outfitters Loft,Los Angeles,USA
+60,27,602,RedCow,2,3.0,6.0,14.0,Urban Outfitters Loft,Los Angeles,USA
+61,28,97,Dovee,1,2.0,2.0,2.0,Trader Tales,San Diego,USA
+62,29,667,Popsi,1,3.0,3.0,16.0,PetPals Mart,San Francisco,USA
+63,29,667,RedCow,1,3.0,3.0,16.0,PetPals Mart,San Francisco,USA
+64,29,667,Flixnet,1,10.0,10.0,16.0,PetPals Mart,San Francisco,USA
+65,30,990,Oreoz,1,3.0,3.0,3.0,Urban Outfitters Loft,New York,USA
+66,31,224,Dovee,1,1.0,1.0,1.0,Urban Outfitters Loft,Chicago,USA
+67,32,927,Colgatex,1,2.0,2.0,2.0,Urban Outfitters Loft,Chicago,USA
+68,33,701,Coca-Splash,1,2.0,2.0,10.0,PetPals Mart,Los Angeles,USA
+69,33,701,Popsi,2,3.0,6.0,10.0,PetPals Mart,Los Angeles,USA
+70,33,701,Colgatex,1,2.0,2.0,10.0,PetPals Mart,Los Angeles,USA
+71,34,136,Colgatex,1,2.0,2.0,2.0,Urban Outfitters Loft,New York,USA
+72,35,528,Colgatex,1,2.0,2.0,2.0,PetPals Mart,New York,USA
+73,36,202,RedCow,1,3.0,3.0,3.0,PetPals Mart,San Francisco,USA
+74,37,799,Dovee,1,2.0,2.0,11.0,Trader Tales,San Francisco,USA
+75,37,799,Colgatex,3,3.0,9.0,11.0,Trader Tales,San Francisco,USA
+76,38,35,Flixnet,3,10.0,30.0,36.0,Urban Outfitters Loft,Los Angeles,USA
+77,38,35,Popsi,1,3.0,3.0,36.0,Urban Outfitters Loft,Los Angeles,USA
+78,38,35,GatorBoost,1,3.0,3.0,36.0,Urban Outfitters Loft,Los Angeles,USA
+79,39,862,Dovee,1,1.0,1.0,9.0,PetPals Mart,Los Angeles,USA
+80,39,862,Oreoz,2,3.0,6.0,9.0,PetPals Mart,Los Angeles,USA
+81,39,862,Colgatex,1,2.0,2.0,9.0,PetPals Mart,Los Angeles,USA
+82,40,171,Krafty Cheddar,2,5.0,10.0,10.0,BestChoice Buy,New York,USA
+83,41,146,GatorBoost,2,3.0,6.0,8.0,Urban Outfitters Loft,Los Angeles,USA
+84,41,146,Colgatex,1,2.0,2.0,8.0,Urban Outfitters Loft,Los Angeles,USA
+85,42,540,Dovee,1,1.0,1.0,4.0,Urban Outfitters Loft,Los Angeles,USA
+86,42,540,Oreoz,1,3.0,3.0,4.0,Urban Outfitters Loft,Los Angeles,USA
+87,43,374,KittyKat,1,2.0,2.0,2.0,Urban Outfitters Loft,San Francisco,USA
+88,44,692,KittyKat,1,2.0,2.0,5.0,Urban Outfitters Loft,New York,USA
+89,44,692,Dovee,3,1.0,3.0,5.0,Urban Outfitters Loft,New York,USA
+90,45,86,Oreoz,2,3.0,6.0,6.0,PetPals Mart,New York,USA
+91,46,179,Oreoz,1,3.0,3.0,4.0,PetPals Mart,Chicago,USA
+92,46,179,Dovee,1,1.0,1.0,4.0,PetPals Mart,Chicago,USA
+93,47,23,Colgatex,2,3.0,6.0,14.0,BestChoice Buy,San Francisco,USA
+94,47,23,Popsi,2,4.0,8.0,14.0,BestChoice Buy,San Francisco,USA
+95,48,686,RedCow,1,3.0,3.0,7.0,Urban Outfitters Loft,San Diego,USA
+96,48,686,Krafty Cheddar,1,4.0,4.0,7.0,Urban Outfitters Loft,San Diego,USA
+97,49,308,Popsi,1,3.0,3.0,10.0,Urban Outfitters Loft,Los Angeles,USA
+98,49,308,RedCow,2,3.0,6.0,10.0,Urban Outfitters Loft,Los Angeles,USA
+99,49,308,Dovee,1,1.0,1.0,10.0,Urban Outfitters Loft,Los Angeles,USA
+100,50,126,Krafty Cheddar,1,4.0,4.0,6.0,PetPals Mart,San Diego,USA
+101,50,126,Dovee,2,1.0,2.0,6.0,PetPals Mart,San Diego,USA
+102,51,516,KittyKat,1,3.0,3.0,14.0,Trader Tales,San Francisco,USA
+103,51,516,Flixnet,1,11.0,11.0,14.0,Trader Tales,San Francisco,USA
+104,52,697,Flixnet,2,10.0,20.0,23.0,Urban Outfitters Loft,San Francisco,USA
+105,52,697,RedCow,1,3.0,3.0,23.0,Urban Outfitters Loft,San Francisco,USA
+106,53,556,Oreoz,1,4.0,4.0,7.0,Trader Tales,New York,USA
+107,53,556,Colgatex,1,3.0,3.0,7.0,Trader Tales,New York,USA
+108,54,212,Flixnet,1,12.0,12.0,12.0,SparkMart,San Francisco,USA
+109,55,345,Dovee,1,1.0,1.0,1.0,PetPals Mart,Chicago,USA
+110,56,970,Dovee,3,2.0,6.0,11.0,Trader Tales,Chicago,USA
+111,56,970,Krafty Cheddar,1,5.0,5.0,11.0,Trader Tales,Chicago,USA
+112,57,169,Colgatex,2,4.0,8.0,32.0,SparkMart,San Francisco,USA
+113,57,169,Flixnet,2,12.0,24.0,32.0,SparkMart,San Francisco,USA
+114,58,624,Krafty Cheddar,1,4.0,4.0,7.0,Urban Outfitters Loft,San Diego,USA
+115,58,624,Popsi,1,3.0,3.0,7.0,Urban Outfitters Loft,San Diego,USA
+116,59,217,Dovee,2,2.0,4.0,4.0,Trader Tales,New York,USA
+117,60,370,Dovee,2,2.0,4.0,4.0,Trader Tales,San Diego,USA
+118,61,518,KittyKat,2,4.0,8.0,20.0,SparkMart,Los Angeles,USA
+119,61,518,Flixnet,1,12.0,12.0,20.0,SparkMart,Los Angeles,USA
+120,62,27,Dovee,3,1.0,3.0,13.0,PetPals Mart,New York,USA
+121,62,27,Popsi,2,3.0,6.0,13.0,PetPals Mart,New York,USA
+122,62,27,Colgatex,2,2.0,4.0,13.0,PetPals Mart,New York,USA
+123,63,667,RedCow,3,3.0,9.0,15.0,Urban Outfitters Loft,San Francisco,USA
+124,63,667,KittyKat,3,2.0,6.0,15.0,Urban Outfitters Loft,San Francisco,USA
+125,64,28,Flixnet,1,11.0,11.0,11.0,Trader Tales,San Francisco,USA
+126,65,158,Flixnet,1,11.0,11.0,15.0,Trader Tales,Los Angeles,USA
+127,65,158,RedCow,1,4.0,4.0,15.0,Trader Tales,Los Angeles,USA
+128,66,124,Flixnet,2,10.0,20.0,21.0,Urban Outfitters Loft,San Diego,USA
+129,66,124,Dovee,1,1.0,1.0,21.0,Urban Outfitters Loft,San Diego,USA
+130,67,615,Krafty Cheddar,1,5.0,5.0,9.0,Trader Tales,San Diego,USA
+131,67,615,Dovee,2,2.0,4.0,9.0,Trader Tales,San Diego,USA
+132,68,706,RedCow,1,5.0,5.0,11.0,Targeted Treasures,Los Angeles,USA
+133,68,706,Dovee,2,3.0,6.0,11.0,Targeted Treasures,Los Angeles,USA
+134,69,223,RedCow,3,4.0,12.0,22.0,Trader Tales,San Francisco,USA
+135,69,223,Krafty Cheddar,2,5.0,10.0,22.0,Trader Tales,San Francisco,USA
+136,70,207,RedCow,2,3.0,6.0,6.0,PetPals Mart,San Diego,USA
+137,71,935,Oreoz,1,4.0,4.0,8.0,Trader Tales,New York,USA
+138,71,935,Dovee,2,2.0,4.0,8.0,Trader Tales,New York,USA
+139,72,182,Colgatex,3,4.0,12.0,21.0,SparkMart,New York,USA
+140,72,182,Dovee,3,3.0,9.0,21.0,SparkMart,New York,USA
+141,73,486,KittyKat,3,3.0,9.0,9.0,BestChoice Buy,San Francisco,USA
+142,74,17,RedCow,2,3.0,6.0,6.0,PetPals Mart,New York,USA
+143,75,184,RedCow,2,3.0,6.0,8.0,PetPals Mart,New York,USA
+144,75,184,KittyKat,1,2.0,2.0,8.0,PetPals Mart,New York,USA
+145,76,174,RedCow,2,3.0,6.0,29.0,Urban Outfitters Loft,Los Angeles,USA
+146,76,174,Flixnet,2,10.0,20.0,29.0,Urban Outfitters Loft,Los Angeles,USA
+147,76,174,Popsi,1,3.0,3.0,29.0,Urban Outfitters Loft,Los Angeles,USA
+148,77,211,Dovee,1,1.0,1.0,14.0,PetPals Mart,Chicago,USA
+149,77,211,Flixnet,1,10.0,10.0,14.0,PetPals Mart,Chicago,USA
+150,77,211,Popsi,1,3.0,3.0,14.0,PetPals Mart,Chicago,USA
+151,78,85,Colgatex,1,4.0,4.0,4.0,SparkMart,Chicago,USA
+152,79,10,GatorBoost,1,5.0,5.0,26.0,SparkMart,Chicago,USA
+153,79,10,Krafty Cheddar,1,6.0,6.0,26.0,SparkMart,Chicago,USA
+154,79,10,Popsi,3,5.0,15.0,26.0,SparkMart,Chicago,USA
+155,80,671,KittyKat,2,3.0,6.0,24.0,Trader Tales,New York,USA
+156,80,671,RedCow,3,4.0,12.0,24.0,Trader Tales,New York,USA
+157,80,671,Colgatex,2,3.0,6.0,24.0,Trader Tales,New York,USA
+158,81,259,Dovee,3,2.0,6.0,23.0,BestChoice Buy,San Francisco,USA
+159,81,259,KittyKat,3,3.0,9.0,23.0,BestChoice Buy,San Francisco,USA
+160,81,259,Popsi,2,4.0,8.0,23.0,BestChoice Buy,San Francisco,USA
+161,82,990,RedCow,2,3.0,6.0,9.0,PetPals Mart,New York,USA
+162,82,990,Popsi,1,3.0,3.0,9.0,PetPals Mart,New York,USA
+163,83,43,Flixnet,1,10.0,10.0,15.0,PetPals Mart,Los Angeles,USA
+164,83,43,Oreoz,1,3.0,3.0,15.0,PetPals Mart,Los Angeles,USA
+165,83,43,KittyKat,1,2.0,2.0,15.0,PetPals Mart,Los Angeles,USA
+166,84,258,RedCow,2,3.0,6.0,8.0,Urban Outfitters Loft,San Diego,USA
+167,84,258,KittyKat,1,2.0,2.0,8.0,Urban Outfitters Loft,San Diego,USA
+168,85,519,Dovee,1,1.0,1.0,7.0,Urban Outfitters Loft,Los Angeles,USA
+169,85,519,GatorBoost,2,3.0,6.0,7.0,Urban Outfitters Loft,Los Angeles,USA
+170,86,85,RedCow,2,3.0,6.0,6.0,PetPals Mart,Chicago,USA
+171,87,48,Krafty Cheddar,1,5.0,5.0,13.0,Trader Tales,Los Angeles,USA
+172,87,48,Dovee,2,2.0,4.0,13.0,Trader Tales,Los Angeles,USA
+173,87,48,Popsi,1,4.0,4.0,13.0,Trader Tales,Los Angeles,USA
+174,88,702,Popsi,1,4.0,4.0,4.0,Trader Tales,Los Angeles,USA
+175,89,362,Popsi,2,3.0,6.0,7.0,Urban Outfitters Loft,San Francisco,USA
+176,89,362,Dovee,1,1.0,1.0,7.0,Urban Outfitters Loft,San Francisco,USA
+177,90,64,GatorBoost,2,4.0,8.0,14.0,Trader Tales,San Francisco,USA
+178,90,64,Colgatex,2,3.0,6.0,14.0,Trader Tales,San Francisco,USA
+179,91,35,GatorBoost,1,4.0,4.0,4.0,Trader Tales,Los Angeles,USA
+180,92,175,KittyKat,1,3.0,3.0,3.0,BestChoice Buy,New York,USA
+181,93,116,Oreoz,1,3.0,3.0,8.0,Urban Outfitters Loft,San Diego,USA
+182,93,116,Dovee,2,1.0,2.0,8.0,Urban Outfitters Loft,San Diego,USA
+183,93,116,Popsi,1,3.0,3.0,8.0,Urban Outfitters Loft,San Diego,USA
+184,94,530,Dovee,2,2.0,4.0,16.0,Trader Tales,San Francisco,USA
+185,94,530,Oreoz,3,4.0,12.0,16.0,Trader Tales,San Francisco,USA
+186,95,109,Dovee,2,2.0,4.0,4.0,BestChoice Buy,Chicago,USA
+187,96,102,Flixnet,1,10.0,10.0,10.0,Urban Outfitters Loft,Chicago,USA
+188,97,326,Dovee,2,2.0,4.0,12.0,BestChoice Buy,Chicago,USA
+189,97,326,RedCow,2,4.0,8.0,12.0,BestChoice Buy,Chicago,USA
+190,98,639,Oreoz,1,5.0,5.0,10.0,SparkMart,Los Angeles,USA
+191,98,639,GatorBoost,1,5.0,5.0,10.0,SparkMart,Los Angeles,USA
+192,99,568,Oreoz,1,3.0,3.0,3.0,Urban Outfitters Loft,San Francisco,USA
+193,100,307,KittyKat,1,2.0,2.0,12.0,PetPals Mart,Chicago,USA
+194,100,307,Flixnet,1,10.0,10.0,12.0,PetPals Mart,Chicago,USA
+195,101,653,GatorBoost,1,3.0,3.0,7.0,Urban Outfitters Loft,New York,USA
+196,101,653,KittyKat,1,2.0,2.0,7.0,Urban Outfitters Loft,New York,USA
+197,101,653,Dovee,2,1.0,2.0,7.0,Urban Outfitters Loft,New York,USA
+198,102,140,GatorBoost,1,3.0,3.0,3.0,PetPals Mart,San Francisco,USA
+199,103,819,Popsi,1,3.0,3.0,9.0,Urban Outfitters Loft,San Francisco,USA
+200,103,819,Krafty Cheddar,1,4.0,4.0,9.0,Urban Outfitters Loft,San Francisco,USA
+201,103,819,KittyKat,1,2.0,2.0,9.0,Urban Outfitters Loft,San Francisco,USA
+202,104,436,RedCow,2,3.0,6.0,13.0,Urban Outfitters Loft,San Francisco,USA
+203,104,436,KittyKat,2,2.0,4.0,13.0,Urban Outfitters Loft,San Francisco,USA
+204,104,436,Dovee,3,1.0,3.0,13.0,Urban Outfitters Loft,San Francisco,USA
+205,105,146,Oreoz,1,4.0,4.0,13.0,BestChoice Buy,Los Angeles,USA
+206,105,146,Popsi,1,4.0,4.0,13.0,BestChoice Buy,Los Angeles,USA
+207,105,146,Krafty Cheddar,1,5.0,5.0,13.0,BestChoice Buy,Los Angeles,USA
+208,106,877,Oreoz,2,4.0,8.0,13.0,Trader Tales,San Diego,USA
+209,106,877,Dovee,1,2.0,2.0,13.0,Trader Tales,San Diego,USA
+210,106,877,Colgatex,1,3.0,3.0,13.0,Trader Tales,San Diego,USA
+211,107,150,Popsi,2,3.0,6.0,9.0,PetPals Mart,New York,USA
+212,107,150,Popsi,1,3.0,3.0,9.0,PetPals Mart,New York,USA
+213,108,2,RedCow,2,3.0,6.0,10.0,Urban Outfitters Loft,Los Angeles,USA
+214,108,2,Dovee,1,1.0,1.0,10.0,Urban Outfitters Loft,Los Angeles,USA
+215,108,2,Popsi,1,3.0,3.0,10.0,Urban Outfitters Loft,Los Angeles,USA
+216,109,343,RedCow,3,3.0,9.0,9.0,Urban Outfitters Loft,Chicago,USA
+217,110,908,KittyKat,1,2.0,2.0,2.0,Urban Outfitters Loft,Los Angeles,USA
+218,111,235,Colgatex,1,3.0,3.0,17.0,Trader Tales,Los Angeles,USA
+219,111,235,Flixnet,1,11.0,11.0,17.0,Trader Tales,Los Angeles,USA
+220,111,235,Coca-Splash,1,3.0,3.0,17.0,Trader Tales,Los Angeles,USA
+221,112,938,Dovee,1,2.0,2.0,2.0,Trader Tales,San Diego,USA
+222,113,838,KittyKat,2,2.0,4.0,4.0,Urban Outfitters Loft,New York,USA
+223,114,584,Popsi,2,3.0,6.0,16.0,PetPals Mart,Los Angeles,USA
+224,114,584,Flixnet,1,10.0,10.0,16.0,PetPals Mart,Los Angeles,USA
+225,115,626,Dovee,1,1.0,1.0,1.0,PetPals Mart,Los Angeles,USA
+226,116,733,Flixnet,1,10.0,10.0,11.0,Urban Outfitters Loft,Chicago,USA
+227,116,733,Dovee,1,1.0,1.0,11.0,Urban Outfitters Loft,Chicago,USA
+228,117,81,Dovee,1,1.0,1.0,7.0,PetPals Mart,San Francisco,USA
+229,117,81,Oreoz,2,3.0,6.0,7.0,PetPals Mart,San Francisco,USA
+230,118,283,Dovee,2,1.0,2.0,2.0,PetPals Mart,New York,USA
+231,119,430,Krafty Cheddar,1,4.0,4.0,14.0,PetPals Mart,San Diego,USA
+232,119,430,Colgatex,2,2.0,4.0,14.0,PetPals Mart,San Diego,USA
+233,119,430,Popsi,2,3.0,6.0,14.0,PetPals Mart,San Diego,USA
+234,120,197,Flixnet,3,11.0,33.0,36.0,BestChoice Buy,San Diego,USA
+235,120,197,KittyKat,1,3.0,3.0,36.0,BestChoice Buy,San Diego,USA
+236,121,234,KittyKat,3,2.0,6.0,9.0,Urban Outfitters Loft,New York,USA
+237,121,234,GatorBoost,1,3.0,3.0,9.0,Urban Outfitters Loft,New York,USA
+238,122,990,Dovee,1,1.0,1.0,9.0,PetPals Mart,New York,USA
+239,122,990,Colgatex,1,2.0,2.0,9.0,PetPals Mart,New York,USA
+240,122,990,Oreoz,2,3.0,6.0,9.0,PetPals Mart,New York,USA
+241,123,251,Popsi,1,3.0,3.0,3.0,Urban Outfitters Loft,New York,USA
+242,124,86,Colgatex,1,4.0,4.0,24.0,SparkMart,New York,USA
+243,124,86,Popsi,2,5.0,10.0,24.0,SparkMart,New York,USA
+244,124,86,RedCow,2,5.0,10.0,24.0,SparkMart,New York,USA
+245,125,693,Oreoz,2,3.0,6.0,39.0,Urban Outfitters Loft,New York,USA
+246,125,693,RedCow,1,3.0,3.0,39.0,Urban Outfitters Loft,New York,USA
+247,125,693,Flixnet,3,10.0,30.0,39.0,Urban Outfitters Loft,New York,USA
+248,126,746,Flixnet,1,10.0,10.0,16.0,Urban Outfitters Loft,San Diego,USA
+249,126,746,Popsi,2,3.0,6.0,16.0,Urban Outfitters Loft,San Diego,USA
+250,127,705,Dovee,1,2.0,2.0,12.0,Trader Tales,Chicago,USA
+251,127,705,Colgatex,2,3.0,6.0,12.0,Trader Tales,Chicago,USA
+252,127,705,Popsi,1,4.0,4.0,12.0,Trader Tales,Chicago,USA
+253,128,373,Dovee,1,1.0,1.0,1.0,Urban Outfitters Loft,Los Angeles,USA
+254,129,445,RedCow,1,5.0,5.0,17.0,SparkMart,Los Angeles,USA
+255,129,445,Krafty Cheddar,2,6.0,12.0,17.0,SparkMart,Los Angeles,USA
+256,130,258,KittyKat,2,3.0,6.0,20.0,BestChoice Buy,San Diego,USA
+257,130,258,Colgatex,3,3.0,9.0,20.0,BestChoice Buy,San Diego,USA
+258,130,258,Krafty Cheddar,1,5.0,5.0,20.0,BestChoice Buy,San Diego,USA
+259,131,855,RedCow,2,4.0,8.0,12.0,Trader Tales,Chicago,USA
+260,131,855,Popsi,1,4.0,4.0,12.0,Trader Tales,Chicago,USA
+261,132,63,Krafty Cheddar,2,5.0,10.0,18.0,Trader Tales,San Diego,USA
+262,132,63,GatorBoost,2,4.0,8.0,18.0,Trader Tales,San Diego,USA
+263,133,69,Dovee,1,2.0,2.0,2.0,BestChoice Buy,San Francisco,USA
+264,134,868,RedCow,2,4.0,8.0,8.0,BestChoice Buy,New York,USA
+265,135,332,Flixnet,2,10.0,20.0,23.0,PetPals Mart,San Diego,USA
+266,135,332,GatorBoost,1,3.0,3.0,23.0,PetPals Mart,San Diego,USA
+267,136,416,Krafty Cheddar,2,4.0,8.0,11.0,PetPals Mart,San Francisco,USA
+268,136,416,Dovee,1,1.0,1.0,11.0,PetPals Mart,San Francisco,USA
+269,136,416,Colgatex,1,2.0,2.0,11.0,PetPals Mart,San Francisco,USA
+270,137,289,Dovee,1,1.0,1.0,3.0,Urban Outfitters Loft,New York,USA
+271,137,289,Colgatex,1,2.0,2.0,3.0,Urban Outfitters Loft,New York,USA
+272,138,15,Flixnet,2,11.0,22.0,29.0,Trader Tales,New York,USA
+273,138,15,RedCow,1,4.0,4.0,29.0,Trader Tales,New York,USA
+274,138,15,KittyKat,1,3.0,3.0,29.0,Trader Tales,New York,USA
+275,139,554,Dovee,3,1.0,3.0,17.0,PetPals Mart,San Francisco,USA
+276,139,554,Flixnet,1,10.0,10.0,17.0,PetPals Mart,San Francisco,USA
+277,139,554,Colgatex,2,2.0,4.0,17.0,PetPals Mart,San Francisco,USA
+278,140,377,Dovee,1,3.0,3.0,8.0,SparkMart,Los Angeles,USA
+279,140,377,Oreoz,1,5.0,5.0,8.0,SparkMart,Los Angeles,USA
+280,141,706,RedCow,1,4.0,4.0,7.0,BestChoice Buy,Los Angeles,USA
+281,141,706,KittyKat,1,3.0,3.0,7.0,BestChoice Buy,Los Angeles,USA
+282,142,210,Colgatex,3,3.0,9.0,9.0,Trader Tales,Chicago,USA
+283,143,7,RedCow,1,3.0,3.0,3.0,PetPals Mart,Los Angeles,USA
+284,144,251,Dovee,3,2.0,6.0,6.0,Trader Tales,New York,USA
+285,145,577,KittyKat,1,2.0,2.0,7.0,Urban Outfitters Loft,San Diego,USA
+286,145,577,GatorBoost,1,3.0,3.0,7.0,Urban Outfitters Loft,San Diego,USA
+287,145,577,Dovee,2,1.0,2.0,7.0,Urban Outfitters Loft,San Diego,USA
+288,146,165,Dovee,1,3.0,3.0,13.0,Targeted Treasures,Chicago,USA
+289,146,165,Popsi,2,5.0,10.0,13.0,Targeted Treasures,Chicago,USA
+290,147,441,Flixnet,2,10.0,20.0,24.0,Urban Outfitters Loft,San Diego,USA
+291,147,441,KittyKat,1,2.0,2.0,24.0,Urban Outfitters Loft,San Diego,USA
+292,147,441,Colgatex,1,2.0,2.0,24.0,Urban Outfitters Loft,San Diego,USA
+293,148,957,Colgatex,1,3.0,3.0,8.0,Trader Tales,San Francisco,USA
+294,148,957,Krafty Cheddar,1,5.0,5.0,8.0,Trader Tales,San Francisco,USA
+295,149,195,Dovee,1,1.0,1.0,1.0,PetPals Mart,San Diego,USA
