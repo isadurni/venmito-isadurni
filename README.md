@@ -26,7 +26,7 @@
     - `transfers.csv`
 4. Select the file icon in the left toolbar and upload these in the opened directory (`/content`).
 5. Click ‘Runtime’ → ‘Run All’ in the top toolbar.
-    1. You can also run these cell individually to view the progression of the data processing, but it is very important to run each cell in order and only once.
+    1. You can also run these cells individually to view the progression of the data processing, but it is very important to run each cell in order and only once.
     2. I recommend having the table of contents opened on the left so you understand what stage of the data gathering/analysis process you are viewing.
 6. You should be able to view the data frames and visualizations, now you can access the processed files in `/content`  (these are also saved in the GitHub repository `/data/processed`).
 
@@ -49,7 +49,7 @@
 - `venmito-isadurni/`
     - `code/`
         - `venmito_data_exploration.ipynb`
-    - `daashboard/`
+    - `dashboard/`
         - `Venmito.twbx`
         - `venmito_dashboard.pdf`
     - `data/`
@@ -101,7 +101,7 @@
     Venmito is a payment company that facilitates fund transfers between users and enables payments at participating stores. The company has a variety of data files in different formats. The goal is to clean and integrate this data to extract meaningful insights and provide structured methods for consuming the information for both technical and less technically inclined clients.
     
 - **Analysis Approach**
-    1. First using Google Colabs use features in Python and its libraries to create insights and visualizations that will give me an idea and direction of how I will add value to Venimto.
+    1. First use Google Colabs to implement features in Python and its libraries to create insights and visualizations that will give me an idea and direction of how I will add value to Venimto.
     2. Then use Tableau to create a dashboard and more elaborate visualizations and enrich the analysis.
 - **Resources**
     1. Raw Data Files *(already provided).*
@@ -110,8 +110,13 @@
     - Data Consumption Methods:
         - Technical Team:
             - Jupyter Notebook *(Source Code)*
+            - The notebook is great as it includes all of the data processing from the raw files and you get to see the progress in manipulating and creating the processed data tables.
+            - Furthermore, the notebook allows technical users to be able to apply their skills to analyze the data and perhaps use more libraries and create ML models to make predictions.
+            - 
         - Non-Technical Team:
             - Tableau Dashboard *(File and Video)*
+            - The dashboard is an interactive way to view data in a presentable way. The hard part and processing have already been done for the viewer.
+            - The viewer can simply apply filters and consume the data presented in a variety of graphs.
     - README Documentation
 - **Timeline**
     
@@ -137,21 +142,23 @@
 
 *Match and conform the raw data provided, enriching it and making it persistent*
 
-In the Google Colab file there is a section for Data Processing divided in subsections for raw files. Here the data was read into data frames and integrated in order to make more meaningful connections and insights across the data provided. It was cleaned and joined, making sure of removing Null values and duplicate entities. The Data was cleaned into the files listed in the Cleaned Data subsection. These files are saved within the /content directory and offer a persistent solution and format to organize the companies data efficiently in a common format, in this case a .csv file.
+In the Google Colab file, there is a section for Data Processing divided into subsections for raw files. Here the data was read into data frames and integrated to make more meaningful connections and insights across the data provided. It was cleaned and joined, making sure to remove Null values and duplicate entities. The Data was cleaned into the files listed in the Cleaned Data subsection. These files are saved within the /content directory and offer a persistent solution and format to organize the company's data efficiently in a common format, in this case, a .csv file.
 
 ### Phase 3: Data Exploration
 
-In the Google Colab file there is a section for Data Exploration and Visualizations. The section is further divided by the data frames and insights being made. These include all sorts of visuals, such as heat maps, histograms, and bar charts, with listed key insights per block explaining what value is extracted from these visualizations.
+In the Google Colab file, there is a section for Data Exploration and Visualization. The section is further divided by the data frames and insights being made. These include all sorts of visuals, such as heat maps, histograms, and bar charts, with listed key insights per block explaining what value is extracted from these visualizations. The interactive Python notebook is great for a technical user who wants to understand the data processing that is occurring behind the scenes and can further apply their own techniques. This solution promotes data persistence as it has created an organized and efficient data frame to have access to valuable insights. As the company collects more data, it can continue to be converted into this format and analyzed, or I recommend they shift away from their ways of collecting data and start storing it directly in a database with such schemas.
 
 ### Phase 4: Presentation
 
-The data and finding are presented in an interactive dashboard. This dashboard is divided in three main sections:
+The data and findings are presented in an interactive dashboard. This dashboard is divided into three main sections:
 
-- A transactions key statistics summary
+- A transaction key statistics summary
 - An interactive section to gain insights on transactions, specifically on the following:
     - Which are the best cities, stores, items, and promotions
 - A section to explore customer activity by:
     - Location, devices, activity over time, and customer retention
+ 
+Users can apply filters and the data will change accordingly. The model promotes persistency and if connected to a database can continue to model and show the same visualization with updated data. Having these dashboards is great to compare the company's progress and performance over time.
 
 ## Thank You.
 
